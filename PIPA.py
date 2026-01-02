@@ -1,1 +1,1 @@
-print('MEOWMEOW! - MF')
+print('MEOWMEOW!')
